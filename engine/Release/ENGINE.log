@@ -1,0 +1,14 @@
+﻿  Main.cpp
+Main.obj : error LNK2001: unresolved external symbol __imp__glClear@4
+Main.obj : error LNK2001: unresolved external symbol __imp__glEnable@4
+Main.obj : error LNK2001: unresolved external symbol __imp__glVertex3f@12
+Main.obj : error LNK2001: unresolved external symbol __imp__glEnd@0
+Main.obj : error LNK2001: unresolved external symbol __imp__glMatrixMode@4
+Main.obj : error LNK2001: unresolved external symbol __imp__glColor3f@12
+Main.obj : error LNK2001: unresolved external symbol __imp__glLoadIdentity@0
+Main.obj : error LNK2001: unresolved external symbol __imp__glBegin@4
+Main.obj : error LNK2001: unresolved external symbol __imp__glClearColor@16
+Main.obj : error LNK2001: unresolved external symbol __imp__glTranslatef@12
+Main.obj : error LNK2001: unresolved external symbol __imp__glRotatef@16
+Main.obj : error LNK2001: unresolved external symbol _gluPerspective@32
+D:\User\Workspaces\QuickEngine\build\ENGINE.exe : fatal error LNK1120: 12 unresolved externals
