@@ -6,6 +6,10 @@
 #include "main.h"
 #include "SDL2/SDL.h"
 
+// OpenGL includes:
+#include "GL/GL.h"
+#include "GLUT/glut.h"
+
 int main(int argc, char* argv[])
 {
     SDL_Init(SDL_INIT_VIDEO);
@@ -21,6 +25,7 @@ int main(int argc, char* argv[])
                 running = 0;
             }
         }
+
 
         SDL_GL_SwapWindow(window);
     }
