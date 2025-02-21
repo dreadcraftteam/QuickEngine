@@ -1,0 +1,9 @@
+# Files to ignore when considering what GIT should commit.
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+*.vsidx
