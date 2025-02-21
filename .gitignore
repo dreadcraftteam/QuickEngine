@@ -7,3 +7,11 @@
 *.VC.db-wal
 *.VC.opendb
 *.vsidx
+*.suo
+*.ipch
+*.log
+*.tlog
+*.iobj
+*.ipdb
+*.recipe
+*.lastbuildstate
